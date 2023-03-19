@@ -1,6 +1,4 @@
-import githubIcon from '../public/github-icon-white.png'
-import emailIcon from '../public/email-icon-white.png'
-import Image from 'next/image'
+
 
 export default function Footer() {
   return (
