@@ -7,7 +7,7 @@ import Link from 'next/link'
 export default function Nav() {
   return (
     <div className="bg-emerald-900 drop-shadow-md">
-        <ul className='flex justify-between p-5'>
+        <ul className='flex justify-between p-5 items-center'>
             <li>
              <Link href="/">
                 <h1 className='text-emerald-50 tracking-widest text-3xl'>KAORI</h1>
